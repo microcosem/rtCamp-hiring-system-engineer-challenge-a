@@ -1,6 +1,6 @@
 # rtCamp: System Engineer Assignment
 
-Hello rtCamp review team and the rest of the world! This project is my submission for [Challenge A: A Web Server Setup for WordPress](https://github.com/rtCamp/hiring-assignments/tree/master/System-Engineer#challenge-a-web-server-setup-for-wordpress) for the System Engineer position at [rtCamp](https://rtcamp.com/).
+:wave: Hello rtCamp review team and the rest of the world! This project is my submission for [Challenge A: A Web Server Setup for WordPress](https://github.com/rtCamp/hiring-assignments/tree/master/System-Engineer#challenge-a-web-server-setup-for-wordpress) for the System Engineer position at [rtCamp](https://rtcamp.com/).
 
 # Running
 
