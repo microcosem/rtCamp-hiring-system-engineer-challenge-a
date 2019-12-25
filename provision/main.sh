@@ -53,6 +53,7 @@ function download_wordpress {
     curl -L -O https://wordpress.org/latest.tar.gz \
         && tar -xzf latest.tar.gz -C "$1"
     rm latest.tar.gz
+    chown -R www-data:www-data "$1"/wordpress
 }
 
 # Create a new Mysql database for WordPress with name “example.com_db”
