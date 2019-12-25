@@ -12,7 +12,7 @@ function installIfMissing {
     fi
 }
 
-# Check if PHP, Mysql & Nginx are installed. If not present, install the missing packages. (I also make sure wget and unzip are installed.)
+# Check if PHP, Mysql & Nginx are installed. If not present, install the missing packages.
 function install_dependencies {
     apt update
     declare -A packages
